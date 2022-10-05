@@ -1,0 +1,11 @@
+C:\Users\Ucenik\Documents\GabrielCondric\RichTextBoxControl\bin\Debug\RichTextBoxControl.exe.config
+C:\Users\Ucenik\Documents\GabrielCondric\RichTextBoxControl\bin\Debug\RichTextBoxControl.exe
+C:\Users\Ucenik\Documents\GabrielCondric\RichTextBoxControl\bin\Debug\RichTextBoxControl.pdb
+C:\Users\Ucenik\Documents\GabrielCondric\RichTextBoxControl\obj\Debug\RichTextBoxControl.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Documents\GabrielCondric\RichTextBoxControl\obj\Debug\RichTextBoxControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Documents\GabrielCondric\RichTextBoxControl\obj\Debug\RichTextBoxControl.Form1.resources
+C:\Users\Ucenik\Documents\GabrielCondric\RichTextBoxControl\obj\Debug\RichTextBoxControl.Properties.Resources.resources
+C:\Users\Ucenik\Documents\GabrielCondric\RichTextBoxControl\obj\Debug\RichTextBoxControl.csproj.GenerateResource.cache
+C:\Users\Ucenik\Documents\GabrielCondric\RichTextBoxControl\obj\Debug\RichTextBoxControl.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Documents\GabrielCondric\RichTextBoxControl\obj\Debug\RichTextBoxControl.exe
+C:\Users\Ucenik\Documents\GabrielCondric\RichTextBoxControl\obj\Debug\RichTextBoxControl.pdb
